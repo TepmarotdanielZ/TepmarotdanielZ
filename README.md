@@ -12,7 +12,7 @@ I have 1 years of experience participating in the Robocon Competition, where I d
 
 ## Projects
 
-### Robocon 2025 ITC01
+### Robocon 2024 ITC01
 - Role: Programming
 - Description: Worked on various robotics projects, focusing on programming and electronic circuits. Implemented serial communication and used CAN bus protocol for control signal transmission.
 
