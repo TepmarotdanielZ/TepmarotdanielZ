@@ -1,6 +1,6 @@
 # Hi there, I'm TepmarotdanielZ 👋
 
-Welcome to my GitHub profile! I am an Electrical Engineering graduate from the Institute of Technology of Cambodia, with a strong focus on robotics and embedded systems.
+Welcome to my GitHub profile! I am an Electrical Engineering undergraduate student from the Institute of Technology of Cambodia, with a strong focus on robotics and embedded systems.
 
 ## About Me
 
