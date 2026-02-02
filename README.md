@@ -23,6 +23,14 @@ I have 1 years of experience participating in the Robocon Competition, where I d
 - Frameworks/Technologies: ROS2, STM32CubeIDE
 - Communication Protocols: CAN bus, Sensor
 
+## Let’s Collaborate!
+
+- My Website:   [LinkedIn](https://cv-website-psi-three.vercel.app/)
+
+- My Projects:  [LinkedIn](https://portfolio-v4-phi-peach.vercel.app/)
+
+- My Portfolio: [LinkedIn](https://tepmarotdanielz.github.io/portfolio__v2/#) 
+
 ## Contact
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/tep-marot-575973262/) or email me at [tepmarot050403@gmail.com].
