@@ -25,11 +25,11 @@ I have 1 years of experience participating in the Robocon Competition, where I d
 
 ## Let’s Collaborate!
 
-- My Website:   [LinkedIn](https://cv-website-psi-three.vercel.app/)
+- My Website:   [Link](https://cv-website-psi-three.vercel.app/)
 
-- My Projects:  [LinkedIn](https://portfolio-v4-phi-peach.vercel.app/)
+- My Projects:  [Link](https://portfolio-v4-phi-peach.vercel.app/)
 
-- My Portfolio: [LinkedIn](https://tepmarotdanielz.github.io/portfolio__v2/#) 
+- My Portfolio: [Link](https://tepmarotdanielz.github.io/portfolio__v2/#) 
 
 ## Contact
 
